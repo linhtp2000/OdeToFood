@@ -36,6 +36,7 @@
           "Microsoft.NETCore.App": "2.1.0",
           "Microsoft.VisualStudio.Web.BrowserLink": "2.1.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.1.10",
+          "OdeToCode.UseNodeModules": "1.0.6",
           "OdeToFood.Data": "1.0.0"
         },
         "runtime": {
@@ -731,6 +732,23 @@
           "lib/netstandard1.6/NuGet.Frameworks.dll": {}
         }
       },
+      "OdeToCode.UseNodeModules/1.0.6": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Hosting.Abstractions": "2.1.1",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.1.1",
+          "Microsoft.AspNetCore.StaticFiles": "2.1.1",
+          "Microsoft.Extensions.FileProviders.Physical": "2.1.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/OdeToCode.UseNodeModules.dll": {
+            "assemblyVersion": "1.0.6.0",
+            "fileVersion": "1.0.6.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/OdeToCode.UseNodeModules.dll": {}
+        }
+      },
       "Remotion.Linq/2.2.0": {
         "dependencies": {
           "System.Collections": "4.3.0",
@@ -984,6 +1002,9 @@
       },
       "System.Threading.Tasks.Extensions/4.5.1": {},
       "OdeToFood.Core/1.0.0": {
+        "dependencies": {
+          "OdeToCode.UseNodeModules": "1.0.6"
+        },
         "runtime": {
           "OdeToFood.Core.dll": {}
         },
@@ -997,6 +1018,7 @@
           "Microsoft.EntityFrameworkCore": "2.1.14",
           "Microsoft.EntityFrameworkCore.Design": "2.1.14",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.14",
+          "OdeToCode.UseNodeModules": "1.0.6",
           "OdeToFood.Core": "1.0.0"
         },
         "runtime": {
@@ -3991,6 +4013,13 @@
       "sha512": "sha512-qbXaB76XYUVLocLBs8Z9TS/ERGK2wm797feO+0JEPFvT7o7MRadOR77mqaSD4J1k8G+DlZQyq+MlkCuxrkr3ag==",
       "path": "nuget.frameworks/4.7.0",
       "hashPath": "nuget.frameworks.4.7.0.nupkg.sha512"
+    },
+    "OdeToCode.UseNodeModules/1.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mE838R7RdMaQ3csLrWMCeeG8UtL5jdfEFlYjRTit6EfOTB17sLoV/tmNdAXl59ht0Rcb+9m3t9rqyC7gVEz21A==",
+      "path": "odetocode.usenodemodules/1.0.6",
+      "hashPath": "odetocode.usenodemodules.1.0.6.nupkg.sha512"
     },
     "Remotion.Linq/2.2.0": {
       "type": "package",

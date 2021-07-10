@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\ASP.NET Core\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {}
+    "E:\\ASP.NET Core\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {}
   },
   "projects": {
-    "e:\\ASP.NET Core\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {
+    "E:\\ASP.NET Core\\OdeToFood\\OdeToFood\\OdeToFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\ASP.NET Core\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectUniqueName": "E:\\ASP.NET Core\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
         "projectName": "OdeToFood",
-        "projectPath": "e:\\ASP.NET Core\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
+        "projectPath": "E:\\ASP.NET Core\\OdeToFood\\OdeToFood\\OdeToFood.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "e:\\ASP.NET Core\\OdeToFood\\OdeToFood\\obj\\",
+        "outputPath": "E:\\ASP.NET Core\\OdeToFood\\OdeToFood\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

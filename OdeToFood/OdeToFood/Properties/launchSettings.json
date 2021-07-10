@@ -2,6 +2,10 @@
   "iisSettings": {
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
+    "iis": {
+      "applicationUrl": "http://localhost/OdeToFood",
+      "sslPort": 0
+    },
     "iisExpress": {
       "applicationUrl": "http://localhost:1030",
       "sslPort": 44366

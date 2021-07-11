@@ -1,0 +1,17 @@
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\hostpolicy.dll
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\hostfxr.dll
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.deps.json
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.runtimeconfig.json
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.runtimeconfig.dev.json
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.dll
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.pdb
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Core.dll
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Core.pdb
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.csproj.AssemblyReference.cache
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.AssemblyInfoInputs.cache
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.AssemblyInfo.cs
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.csproj.CoreCompileInputs.cache
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.csproj.CopyComplete
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.dll
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.pdb
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.genruntimeconfig.cache

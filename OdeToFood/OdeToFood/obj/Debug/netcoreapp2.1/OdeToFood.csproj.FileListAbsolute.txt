@@ -1,5 +1,8 @@
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\appsettings.Development.json
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\appsettings.json
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\libman.json
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\package-lock.json
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\package.json
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.deps.json
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.json
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.dev.json
@@ -11,7 +14,6 @@ E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Data.dll
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
-E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
@@ -50,6 +52,5 @@ E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.genruntimeconfig.cache
-E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\package-lock.json
-E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\package.json
-E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\libman.json
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.AssemblyReference.cache
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\appsettings.Production.json

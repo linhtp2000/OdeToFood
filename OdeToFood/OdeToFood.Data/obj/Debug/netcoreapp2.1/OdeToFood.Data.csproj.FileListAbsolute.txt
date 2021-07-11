@@ -5,7 +5,6 @@ E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeTo
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.dll
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\OdeToFood.Core.pdb
-E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csprojAssemblyReference.cache
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfoInputs.cache
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.AssemblyInfo.cs
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.CoreCompileInputs.cache
@@ -13,3 +12,4 @@ E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeTo
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.dll
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.pdb
 E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.genruntimeconfig.cache
+E:\ASP.NET Core\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\OdeToFood.Data.csproj.AssemblyReference.cache
